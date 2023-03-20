@@ -1,0 +1,3 @@
+#Iterable, Strings , Lists ...
+for x in "Python":
+    print(x)
