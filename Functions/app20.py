@@ -1,6 +1,6 @@
-def green():
+def greet():
     print("Hi there")
     print("Welcome aboard")
 
 
-green()
+greet()
