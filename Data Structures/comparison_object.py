@@ -9,10 +9,10 @@ class Point:
     
     
     def __gt__(self, other):
-        return self.x >= other.x and self.y >= other.y
+        return self.x > other.x and self.y > other.y
 
 
-point = Point(1, 2)
+point = Point(10, 20)
 other = Point(1, 2)
 print(point == other)
 print(point > other)
