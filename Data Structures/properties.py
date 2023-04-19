@@ -14,5 +14,5 @@ class Product:
 
 
 
-product = Product(-10)
+product = Product(50)
 print(product.price)
