@@ -1,7 +1,3 @@
-from ecommerce.customer import contact
-from ..customer import contact
-
-
 print("Sales initialized")
 
 
